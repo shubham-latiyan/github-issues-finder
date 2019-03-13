@@ -1,11 +1,14 @@
 {
-  "name": "dcoder",
+  "name": "radius",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "react-toastify": "^4.5.2",
+    "superagent": "^4.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
